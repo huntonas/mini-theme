@@ -442,20 +442,6 @@ there.
       margin-top: 0;
       padding-top: 0;
     }
-    .author-image {
-        width: 10rem;
-        height: 10rem;
-        border: solid 1px #878484;
-        border-radius: 50%;
-    }
-    .author-image a.img {
-      display: block;
-      position: relative;
-      width: 100%;
-      height: 100%;
-      margin-top: -25%;
-      margin-left: -25%;
-    }
 }
 
 /* Larger than phablet (also point when grid becomes active) */
