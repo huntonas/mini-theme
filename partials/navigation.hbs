@@ -1,0 +1,18 @@
+<div class="nav">
+    <div class="row">
+        <div class="twelve columns">
+            <div class=>
+                <h1 class="page-title">{{@blog.title}}</h1>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            <ul class="four columns">
+                {{#foreach navigation}}
+                    <li class="nav-{{slug}}{{#if current}} active{{/if}} nav-item" role="presentation"><a href="{{url absolute="true"}}" target="_blank">{{label}}</a></li>
+                {{/foreach}}
+            </ul>
+        </div>
+    </div>
+</div>

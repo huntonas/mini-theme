@@ -1,0 +1,1 @@
+Minimalist theme for Ghost Blogging platform. 
