@@ -1,4 +1,4 @@
-Minimalist theme for [Ghost](http://www.ghost.com) Blogging platform. 
+Minimalist theme for [Ghost](https://ghost.org/) Blogging platform. 
 
 Based off of Casper theme.
 
